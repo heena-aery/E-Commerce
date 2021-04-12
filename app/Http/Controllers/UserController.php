@@ -18,7 +18,7 @@ class UserController extends Controller
         
         else
         {
-            $req->Session()->put('user','$user');
+            $req->Session()->put('user',$user);
             return redirect('/');
         }
     }

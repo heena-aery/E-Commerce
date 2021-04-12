@@ -43,6 +43,12 @@
     .tranding-wrapper{
         margin: 30px;
     }
+    .detail-img{
+        height: 250px;
+    }
+    .search-box{
+        width: 500px !important;
+    }
 </style>
 {{-- <script>
 $(document).ready(function()
