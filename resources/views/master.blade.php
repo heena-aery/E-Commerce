@@ -49,6 +49,11 @@
     .search-box{
         width: 500px !important;
     }
+    .cart-list-divider{
+        border-bottom: 1px solid lightgray;
+        margin-bottom: 25px;
+        padding-bottom: 25px;
+    }
 </style>
 {{-- <script>
 $(document).ready(function()
